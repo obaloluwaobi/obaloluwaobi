@@ -1,4 +1,2 @@
-- 👋 Yo!, I’m @obaloluwaobi[Obidoyin Obaloluwa Solomon]
-- 👀 I’m interested in working as in intern in a Tech Company
-- 🌱 I’m currently Building apps in flutter
-- 💞️ I’m looking to collaborate and share my knowledge with backend developer
+ I’m currently Building apps in flutter.
+
